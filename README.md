@@ -1,5 +1,5 @@
 # 💰 Wallet App – Money Management System
-<hr>
+
 Project Overview
 The Wallet App is a beginner-friendly Java Spring Boot project designed to help users manage their money efficiently. This project is ideal for learning and understanding the core concepts of Spring Boot, including REST APIs, JPA/Hibernate, service layers, repositories, and dependency injection.
 The app allows users to:
@@ -8,3 +8,9 @@ Add money to their wallet
 Spend money from the wallet
 Check their current wallet balance
 This project uses H2 in-memory database for easy testing and learning purposes, making it lightweight and simple to run without any external database setup.
+
+# Features
+User Management: Create new users and maintain their wallet balance.
+Money Transactions: Add or spend money with simple API endpoints.
+Balance Checking: Retrieve the current balance of any user.
+Layered Architecture: Demonstrates proper separation of concerns with Controller → Service → Repository → Database.
