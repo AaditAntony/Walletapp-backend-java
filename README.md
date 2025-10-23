@@ -14,3 +14,11 @@ User Management: Create new users and maintain their wallet balance.
 Money Transactions: Add or spend money with simple API endpoints.
 Balance Checking: Retrieve the current balance of any user.
 Layered Architecture: Demonstrates proper separation of concerns with Controller → Service → Repository → Database.
+
+# Technologies Used
+Java 21 – Programming language
+Spring Boot 3.5.7 – Backend framework
+Spring Web – For building RESTful APIs
+Spring Data JPA – For database interactions
+H2 Database – In-memory database for testing
+Maven – Project management and build tool
