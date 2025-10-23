@@ -26,3 +26,4 @@ Maven – Project management and build tool
 
 # tormmrow going to do the database
 for how to use the h2 database
+then move to the entity
