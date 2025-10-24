@@ -28,3 +28,5 @@ Maven – Project management and build tool
 for how to use the h2 database
 then move to the entity
 how to use the jpa repository
+
+# LEARNING
