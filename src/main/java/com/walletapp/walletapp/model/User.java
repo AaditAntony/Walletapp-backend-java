@@ -2,7 +2,7 @@ package com.walletapp.walletapp.model;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.PositiveOrZero;
 import jakarta.persistence.*;
-
+// this is the model class that connect with the database
 @Entity
 @Table(name = "users")
 public class User {
