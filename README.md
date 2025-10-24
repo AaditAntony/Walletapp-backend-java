@@ -33,3 +33,6 @@ how to use the jpa repository
 currently learning the entity section in the data
 in java
 refering the spring booot section from the chat gpt
+
+# Model Section
+create a class called the model 
