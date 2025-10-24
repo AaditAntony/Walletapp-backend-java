@@ -32,3 +32,4 @@ how to use the jpa repository
 # LEARNING
 currently learning the entity section in the data
 in java
+refering the spring booot section from the chat gpt
