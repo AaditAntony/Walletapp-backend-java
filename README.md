@@ -43,3 +43,4 @@ has been completed and pushed the code
 the model is done
 the jpa repository is done
 the service class is already implemented
+the dto class has been implemented
