@@ -38,3 +38,5 @@ refering the spring booot section from the chat gpt
 create a class called the model 
 for storing the blueprint for the users with the database
 has been completed and pushed the code
+
+# done
