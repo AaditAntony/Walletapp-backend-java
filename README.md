@@ -51,5 +51,6 @@ i have tested the database and its a success
 and now i have pushed the code
 
 # flutter
-next plan is to implement flutter into this api section
+next plan is to implement flutter into this api section witht the java as the backend
+
 
